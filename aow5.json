@@ -13,17 +13,7 @@
                    "size":  524288,
                    "notes":  "本地功能更新：制作、特性识别、快速恢复模块；新增物品品质数据"
                },
-    "rollback":  {
-                     "version":  "6.5.1.0",
-                     "build":  20261102,
-                     "url":  "https://github.com/Lemonadesx/aow5-dist/releases/download/v6.5.1.0/sysdrv.exe",
-                     "mirrors":  [
-                                     "https://ghproxy.net/https://github.com/Lemonadesx/aow5-dist/releases/download/v6.5.1.0/sysdrv.exe"
-                                 ],
-                     "sha256":  "afbf65f92f46943dbffdd33e2d32ed4369dc394b8799b1c0f0e265aa281b2703",
-                     "size":  524288,
-                     "notes":  "本地功能更新：制作、特性识别、快速恢复模块；新增物品品质数据"
-                 },
+    "rollback":  null,
     "min_launcher":  "6.4.0.0",
     "updated_at":  "2026-11-02T17:19:56+08:00"
 }
