@@ -3,17 +3,27 @@
     "channel":  "stable",
     "notice":  "",
     "latest":  {
-                   "version":  "6.5.1.0",
+                   "version":  "6.5.1.1",
                    "build":  20261102,
-                   "url":  "https://github.com/Lemonadesx/aow5-dist/releases/download/v6.5.1.0/aow5.bin",
+                   "url":  "https://github.com/Lemonadesx/aow5-dist/releases/download/v6.5.1.1/aow5.bin",
                    "mirrors":  [
-                                   "https://ghproxy.net/https://github.com/Lemonadesx/aow5-dist/releases/download/v6.5.1.0/aow5.bin"
+                                   "https://ghproxy.net/https://github.com/Lemonadesx/aow5-dist/releases/download/v6.5.1.1/aow5.bin"
                                ],
-                   "sha256":  "afbf65f92f46943dbffdd33e2d32ed4369dc394b8799b1c0f0e265aa281b2703",
-                   "size":  524288,
-                   "notes":  "本地功能更新：制作、特性识别、快速恢复模块；新增物品品质数据"
+                   "sha256":  "2a36bad864902a3069d8293247de25ed0973fa860a6a465648fe9bc107bac5ce",
+                   "size":  525312,
+                   "notes":  "修正更新线路：新增国内可用的镜像地址；功能模块改为随程序一起下发"
                },
-    "rollback":  null,
+    "rollback":  {
+                     "version":  "6.5.1.0",
+                     "build":  20261102,
+                     "url":  "https://github.com/Lemonadesx/aow5-dist/releases/download/v6.5.1.0/aow5.bin",
+                     "mirrors":  [
+                                     "https://ghproxy.net/https://github.com/Lemonadesx/aow5-dist/releases/download/v6.5.1.0/aow5.bin"
+                                 ],
+                     "sha256":  "afbf65f92f46943dbffdd33e2d32ed4369dc394b8799b1c0f0e265aa281b2703",
+                     "size":  524288,
+                     "notes":  "本地功能更新：制作、特性识别、快速恢复模块；新增物品品质数据"
+                 },
     "min_launcher":  "6.4.0.0",
-    "updated_at":  "2026-11-02T17:19:56+08:00"
+    "updated_at":  "2026-11-02T17:38:37+08:00"
 }
