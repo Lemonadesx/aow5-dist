@@ -3,27 +3,27 @@
     "channel":  "stable",
     "notice":  "",
     "latest":  {
-                   "version":  "6.5.2.0",
-                   "build":  20261102,
-                   "url":  "https://github.com/Lemonadesx/aow5-dist/releases/download/v6.5.2.0/aow5.bin",
+                   "version":  "0.3",
+                   "build":  20261104,
+                   "url":  "https://github.com/Lemonadesx/aow5-dist/releases/download/v0.3/aow5.bin",
                    "mirrors":  [
-                                   "https://ghproxy.net/https://github.com/Lemonadesx/aow5-dist/releases/download/v6.5.2.0/aow5.bin"
+                                   "https://ghproxy.net/https://github.com/Lemonadesx/aow5-dist/releases/download/v0.3/aow5.bin"
                                ],
-                   "sha256":  "9b745dcb20810bf4999647d0f370ff490dafa9400a5ef1a885e432b1f3631f9d",
-                   "size":  526336,
-                   "notes":  "制作目录与物品品质数据更新；特性识别模块调整"
+                   "sha256":  "962eef72ddeaf7a20c9dbfada0e7bb05460895a82fe2a07ddf77dbf63cbfc55c",
+                   "size":  5522432,
+                   "notes":  "导航运行时与特性识别更新；制作模块调整"
                },
     "rollback":  {
-                     "version":  "6.5.1.2",
+                     "version":  "6.5.2.0",
                      "build":  20261102,
-                     "url":  "https://github.com/Lemonadesx/aow5-dist/releases/download/v6.5.1.2/aow5.bin",
+                     "url":  "https://github.com/Lemonadesx/aow5-dist/releases/download/v6.5.2.0/aow5.bin",
                      "mirrors":  [
-                                     "https://ghproxy.net/https://github.com/Lemonadesx/aow5-dist/releases/download/v6.5.1.2/aow5.bin"
+                                     "https://ghproxy.net/https://github.com/Lemonadesx/aow5-dist/releases/download/v6.5.2.0/aow5.bin"
                                  ],
-                     "sha256":  "72a232cb61738e9048b7c9ce1f6aef3bbf0d298a812e79e3da171efc856a5bb7",
-                     "size":  525312,
-                     "notes":  "更新检查改为实时拉取（绕 CDN 缓存）；功能模块随程序下发"
+                     "sha256":  "9b745dcb20810bf4999647d0f370ff490dafa9400a5ef1a885e432b1f3631f9d",
+                     "size":  526336,
+                     "notes":  "制作目录与物品品质数据更新；特性识别模块调整"
                  },
     "min_launcher":  "6.4.0.0",
-    "updated_at":  "2026-11-02T23:36:11+08:00"
+    "updated_at":  "2026-11-04T09:09:54+08:00"
 }
